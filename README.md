@@ -1,4 +1,4 @@
-# Eureka — Moteur de recherche d'articles scientifiques
+# Eureka - Moteur de recherche d'articles scientifiques
 
 Eureka est un site web conçu pour faciliter la recherche d’articles scientifiques. Le projet s'appuie sur Elasticsearch pour permettre l’indexation rapide et efficace d’un grand volume de documents. L’ensemble du système est conteneurisé à l’aide de Docker, ce qui simplifie le déploiement et garantit la portabilité.
 
@@ -21,7 +21,7 @@ Eureka est un site web conçu pour faciliter la recherche d’articles scientifi
 
 1. Cloner le dépôt du projet :
 git clone https://github.com/aminaMalek/Eureka.git
-cd aureka
+cd eureka
 
 2. Lancer les conteneurs Docker :
 docker-compose up --build
